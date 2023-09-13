@@ -1,0 +1,100 @@
+https://www.electronicscomp.com/towerpro-sg90-9gm-micro-servo-motor?srsltid=AfmBOoqCaFggbU6DDRdoUZLKcw56BRwP02Ko50vGyyGYCjYjMUWlUBHo2Cw
+Tower Pro SG90 Servo - 9 gm Mini/Micro Servo Motor
+Operating Voltage: 4.8V~6.0V
+Operating speed: 0.12sec/60 degree
+Output torque: 1.6kg/cm  4.8V
+Dimension: 21.5 x 11.8 x 22.7mm
+Weight: 9g
+Rs.82.00
+
+
+https://beasthobby.com/kst-x08h-v6-0-3kg-metal-gear-digital-0-09sec-micro-glider-servo-motor-for-glider-helicopter-airplane-rc-models/
+KST X08H V6.0 3kg Metal Gear Digital 0.09sec Micro Glider Servo Motor For Glider Helicopter Airplane RC Models
+Rated Voltage: DC7.4V
+Voltage Range: DC3.8V-8.4V
+Torque
+14N.cm@3.8V – 1.4kg.cm@3.8V
+22N.cm@6.0V – 2.2kg.cm@6.0V
+28N.cm@8.4V – 2.8kg.cm@8.4V
+Speed
+0.18sec/60°@3.8V
+0.15sec/60°@6.0V
+0.09sec/60°@8.4V
+Working Frequency: 1520us/20KHz
+Default Travel Angle: ±60° = 120° Total
+Temperature Range: -10℃……+65℃
+Soft Start: Yes
+Programable: Yes
+Case Material: Aluminum Alloy
+Motor Type Coreless: DC Motor
+Gear Set Material: Hardened Steel
+Position Sensor: Potentiometer
+Case Dimensions: 23.5*8*16.8mm±0.2mm
+Weight: 8g±10%
+Travel angles: from 40deg to 360deg
+Communication protocols such as TTL. RS232, i2C, RS485 or PWM
+$42.99
+
+
+https://robu.in/product/micro-gear-motor6mm-dia-5g-cm/?gclid=EAIaIQobChMIyJvAo-SmgQMV_KVmAh2ORA6hEAQYAiABEgKMqfD_BwE
+Micro Gear Motor 6mm Dia., 5g.cm
+Diameter: 6mm
+Width: 38mm
+Power: 0.01-40W
+Output speed: 5-2000rpm
+Rated Torque(kg-cm):	 1.0 gf.cm -50kgf.cm
+Shipment Weight:	0.003 kg
+₹ 308.00
+
+
+https://robu.in/product/hitec-hs-40-economical-nano-nylon-gear-servo/?gclid=EAIaIQobChMIyJvAo-SmgQMV_KVmAh2ORA6hEAQYAyABEgJXRfD_BwE
+Hitec HS-40 Economical, Nano, Nylon Gear Servo
+Operating voltage range: 4.8V-6.0Vt
+Speed (second @ 60 degrees): 0.12-0.10
+Maximum torque range(kg/cm): 0.6-0.75
+Current draw at idle: 8mA
+Stall current draw: 460mA
+Current Draw at Idle(mA):	8
+Stall Current Draw(mA):	460
+No Load Current (mA): 60
+Dimensions (L x W x H):	20.0 x 8.6 x 17.0
+Weight (Kg): 4.8g
+₹ 1,314.00
+
+
+https://robu.in/product/mini-micro-3-7g-servo/?gclid=EAIaIQobChMIyJvAo-SmgQMV_KVmAh2ORA6hEAQYASABEgKeovD_BwE
+MiNi Micro 3.7g Servo
+Operating Speed (4.8V no load): 0.1sec/60 degrees
+Stall Torque (4.8V): 8.32oz/in (0.6 kg/cm)
+Temperature Range: -30 to +60 Degree C
+Operating Voltage: 4.8-7.2 Volts
+Dimension (LxWxH):	20x25x8mm
+₹ 319.00
+
+
+https://robu.in/product/grove-servo/?gclid=EAIaIQobChMIyJvAo-SmgQMV_KVmAh2ORA6hEAQYBCABEgKQdvD_BwE
+SeeedStudio Grove Servo
+Torque: 1.5/1.8 Kg.cm
+Speed (s/60°): 0.12/0.16 s/60°
+Size(mm): 32X11.5X24
+₹ 599.00
+
+
+https://robokits.co.in/motors/dc-motor/centre-shaft-12v-dc-motor/mini-10mm-dc-3v-5v-2.5v-92rpm-slow-speed-magnetic-micro-m10-planetary-gear-motor
+MINI 10MM DC 3V-5V 2.5V 92RPM SLOW SPEED MAGNETIC MICRO M10 PLANETARY GEAR MOTOR
+Planetary gearbox outer diameter: 9.9 MM
+Motor specifications: 8 *10*12 MM (M10 motor)
+Geared motor height: 19.5 MM (motor + gear box)
+Output shaft: Gear with an outer diameter of 5.35 MM (11 teeth)
+Reduction ratio: 1:171
+Weight: 4 grams
+Rated voltage: DC2.5V
+No-load current: 40 MA
+No-load speed: 92 RPM
+Rated torque: 9.8 mN.m
+Maximum torque: 37.2 mN.m
+₹99.12
+
+
+Orbay company
+Hitec
